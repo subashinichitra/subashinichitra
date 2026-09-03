@@ -4,10 +4,10 @@ Aspiring Software Engineer and Python Developer with an interest in Artificial I
 
 ## Technical Skills
 
-**Languages:** Python, SQL, HTML, CSS, JavaScript  
+**Languages:** Python, SQL, HTML, CSS, JavaScript, C++  
 **Frameworks & Tools:** Django, MySQL, Git, GitHub, REST APIs  
-**AI/ML:** Pandas, NumPy, TensorFlow, PyTorch, XGBoost, Scikit-learn  
-**Concepts:** Machine Learning, Generative AI, SDLC, API Integration, Cybersecurity
+**AI/ML:** ML & DL Algorithms, Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn  
+**Concepts:** Machine Learning, Generative AI, SDLC, API Integration
 
 ## Featured Projects
 
@@ -19,7 +19,7 @@ Aspiring Software Engineer and Python Developer with an interest in Artificial I
 - Designed automated backup and recovery workflows using Agile development practices for a scalable and maintainable solution.
 
 ### Campus Resource Sharing Platform
-
+*August 2026*
 - Built a full-stack platform that helps students share, request, and manage campus resources.
 - Developed the frontend with HTML, CSS, and JavaScript, and used Django and MySQL for the backend and database.
 - Implemented user authentication, resource listings, search, and request-management features.
