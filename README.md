@@ -1,51 +1,93 @@
-# Hi, I'm Subashini 👋
+<div align="center">
 
-Aspiring Software Engineer and Python Developer with an interest in Artificial Intelligence, Machine Learning  and full-stack web development. I enjoy building practical, secure, and user-focused applications.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=220&section=header&text=Hi,%20I'm%20Subashini!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18)
 
-## Technical Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashinichitra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashinichitra.github.io/portfolio/)
 
-**Languages:** Python, SQL, HTML, CSS, JavaScript, C++  
-**Frameworks & Tools:** Django, MySQL, Git, GitHub, REST APIs  
-**AI/ML:** ML & DL Algorithms, Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn  
-**Concepts:** Machine Learning, Generative AI, SDLC, API Integration
+</div>
 
-## Featured Projects
+## 👩‍💻 About Me
 
-### SecureVault
-*April 2026*
+I am an aspiring software engineer and Python developer interested in **Artificial Intelligence, Machine Learning, cybersecurity, and full-stack web development**. I enjoy turning ideas into practical, secure, and user-focused applications.
 
-- Developed a hybrid backup system integrating local and cloud storage for reliable data protection.
-- Implemented AES-256 encryption, SHA-256 deduplication, ECC cryptography, and ransomware detection to strengthen file security.
-- Designed automated backup and recovery workflows using Agile development practices for a scalable and maintainable solution.
+## 🛠️ Technical Skills
 
-### Campus Resource Sharing Platform
-*August 2026*
-- Built a full-stack platform that helps students share, request, and manage campus resources.
-- Developed the frontend with HTML, CSS, and JavaScript, and used Django and MySQL for the backend and database.
-- Implemented user authentication, resource listings, search, and request-management features.
+<div align="center">
 
-### ReciproCAM-Enhanced Hybrid AI Model for Lung Disease Detection
-*July 2025*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Developed Python-based machine-learning models for lung disease detection using CNN, XGBoost, and SVM.
-- Applied image preprocessing and ReciproCAM explainability techniques to improve interpretation of predictions.
-- Evaluated model performance for detecting COVID-19, pneumonia, and lung tumors, achieving 92% accuracy.
+</div>
 
-### API Health Checker
-*October 2025*
+## 🚀 Featured Projects
 
-- Developed a Django-based application to monitor API endpoints in real time.
-- Implemented uptime monitoring, response-time tracking, and error logging to support API reliability.
-- Created an interactive dashboard to visualize API performance and system health.
+### 🔐 SecureVault
+> Hybrid backup system for secure and reliable data protection.
 
-### Data Breach Checker
-*May 2025*
+- Integrated local and cloud storage for backups.
+- Used AES-256 encryption, SHA-256 deduplication, and ECC cryptography.
+- Added ransomware detection and automated backup-and-recovery workflows.
 
-- Developed a Python application to check whether email addresses may be exposed in known data breaches.
-- Implemented hashing and database lookup techniques for efficient detection.
-- Added password-strength checks and user alerts to improve security awareness and usability.
+### 🏫 Campus Resource Sharing Platform
+> A full-stack platform for students to share and request campus resources.
 
-## Connect With Me
+- Built with HTML, CSS, JavaScript, Django, and MySQL.
+- Implemented authentication, resource listings, search, and request management.
+- Designed to make campus sharing organized and accessible.
 
-- [LinkedIn](https://www.linkedin.com/in/subashinichitra)
-- [Portfolio](https://subashinichitra.github.io/portfolio/)
+### 🫁 ReciproCAM-Enhanced Hybrid AI Model for Lung Disease Detection
+> Machine-learning solution for detecting lung diseases from medical images.
+
+- Built models using CNN, XGBoost, and SVM.
+- Applied image preprocessing and ReciproCAM explainability.
+- Achieved 92% accuracy in detecting COVID-19, pneumonia, and lung tumors.
+
+### 📡 API Health Checker
+> Django application for monitoring API reliability in real time.
+
+- Tracks API uptime, response times, and errors.
+- Displays API performance through an interactive dashboard.
+- Helps identify reliability and system-health issues quickly.
+
+### 🛡️ Data Breach Checker
+> Python application that checks potential email exposure in known data breaches.
+
+- Uses hashing and database lookup techniques.
+- Includes password-strength checks and user alerts.
+- Promotes security awareness and safer online practices.
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![Subashini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subashinichitra&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashinichitra&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subashinichitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashinichitra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashinichitra.github.io/portfolio/)
+
+</div>
+
+<div align="center">
+
+### ✨ “Learning, building, and growing one project at a time.” ✨
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:E100FF,100:7F00FF&height=120&section=footer)
