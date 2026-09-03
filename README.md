@@ -96,16 +96,6 @@ and full-stack web development. I enjoy building practical, secure and user-focu
 - Implemented hashing and database-lookup techniques for efficient detection.
 - Added password-strength checks and user alerts to improve security awareness.
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subashinichitra&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashinichitra&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
