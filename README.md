@@ -1,6 +1,6 @@
 # Hi, I'm Subashini 👋
 
-Aspiring Software Engineer and Python Developer with an interest in Artificial Intelligence, Machine Learning, cybersecurity, and full-stack web development. I enjoy building practical, secure, and user-focused applications.
+Aspiring Software Engineer and Python Developer with an interest in Artificial Intelligence, Machine Learning  and full-stack web development. I enjoy building practical, secure, and user-focused applications.
 
 ## Technical Skills
 
