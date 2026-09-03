@@ -99,3 +99,26 @@ and full-stack web development. I enjoy building practical, secure and user-focu
 ## 📊 GitHub Activity
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subashinichitra&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashinichitra&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subashinichitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashinichitra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashinichitra.github.io/portfolio/)
+
+</div>
+
+<div align="center">
+
+### ✨ Learning, building, and growing one project at a time. ✨
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:E100FF,100:7F00FF&height=120&section=footer)
