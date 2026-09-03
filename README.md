@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Subashini 👋
 
-<!--
-**subashinichitra/subashinichitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer interested in cybersecurity, APIs, and web development. I enjoy building practical, user-focused projects and continuously improving my development skills.
 
-Here are some ideas to get you started:
+## Skills
+Python · HTML · CSS · JavaScript · APIs · Git · GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **API Health Checker** — A Python tool for checking API availability, status codes, and response times.
+- **Data Breach Checker** — A Python project focused on checking email exposure in known data breaches.
+- **SecureVault** — A security-focused web project.
+- **Food Delivery App** — A responsive web application for food ordering.
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/subashinichitra)
+- [Portfolio](https://subashinichitra.github.io/portfolio/)
