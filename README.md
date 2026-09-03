@@ -102,6 +102,7 @@ and full-stack web development. I enjoy building practical, secure and user-focu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-subashinichitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashinichitra)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subashinichitra.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-work.subashini%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.subashini@gmail.com)
 
 </div>
 
